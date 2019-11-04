@@ -5,7 +5,7 @@ The interface is created using [create-react-app](https://github.com/facebook/cr
 ## Getting started
 Clone the repository
 
-`git clone http://localhost:3000/`
+`git clone https://github.com/abdualrhman/sign_in_app.git`
 
 `cd sign_in_app`
 
